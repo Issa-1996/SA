@@ -1,0 +1,246 @@
+[
+    {
+        "quest": "Quel est la capital du senegal?",
+        "point": "8",
+        "type": "texte",
+        "area": "Touba mbacke est la capital du senegal"
+    },
+    {
+        "quest": "Que signifie ODC",
+        "point": "2",
+        "type": "simple",
+        "reponseSimple": {
+            "1": "Orange Digital Center",
+            "2": "Orange Division Central"
+        },
+        "nomradio": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Quel est la devise du senegal?",
+        "point": "3",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Un pleuple",
+            "2": "Un but",
+            "3": "senegalais",
+            "4": "Africanite"
+        },
+        "nomcheckbox": {
+            "1": "on",
+            "2": "on"
+        }
+    },
+    {
+        "quest": "Quel est la devise du senegal?",
+        "point": "3",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Un peuple",
+            "2": "Un but",
+            "3": "Une Fois",
+            "4": "Africanite"
+        },
+        "nomcheckbox": {
+            "1": "on",
+            "2": "on",
+            "3": "on"
+        }
+    },
+    {
+        "quest": "Quel est la la capital de gambie",
+        "point": "45",
+        "type": "simple",
+        "reponseSimple": {
+            "1": "bambey",
+            "2": "thies",
+            "3": "bandioul"
+        },
+        "nomradio": {
+            "2": "on"
+        }
+    },
+    {
+        "quest": "Quel est la la capital de gambie",
+        "point": "45",
+        "type": "simple",
+        "reponseSimple": {
+            "1": "bambey",
+            "2": "thies",
+            "3": "bandioul"
+        },
+        "nomradio": {
+            "2": "on"
+        }
+    },
+    {
+        "quest": "Quel est la la capital de gambie",
+        "point": "01",
+        "type": "simple",
+        "reponseSimple": {
+            "1": "rare",
+            "2": "rdi",
+            "3": "bandjoul"
+        },
+        "nomradio": {
+            "3": "on"
+        }
+    },
+    {
+        "quest": "Que signifie Informatique?",
+        "point": "2",
+        "type": "simple",
+        "reponseSimple": {
+            "1": "Traitement rationnel de l'information",
+            "2": "Word et excel"
+        },
+        "nomradio": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Que signifie ucad?",
+        "point": "3",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Universite cheikh anta diop",
+            "2": "univers cauchemar a dakar"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    },
+    {
+        "quest": "Qui est le president des etats unis?",
+        "point": "20",
+        "type": "multiples",
+        "reponseMultiple": {
+            "1": "Donal treup",
+            "2": "Emanuel macron"
+        },
+        "nomcheckbox": {
+            "1": "on"
+        }
+    }
+]

@@ -1,0 +1,2295 @@
+@media only screen and (max-width : 767px){
+    a{
+        text-decoration: none;
+        color: dimgrey;
+    }
+    body{ 
+        background-image: linear-gradient(rgba(4,36,37,0.5), rgba(4,36,37,0.5)), url('images/img-bg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    #hautp{
+        background-color: black;
+        width: 100%;
+        height: 13%;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+    }
+    .logo{
+        width: 5%;
+        height: 100%;
+        float: none;
+        position: absolute;
+        left: 2%;
+    }
+    .plaisir{
+        width: 40%;
+        height: 50%;
+        position: absolute;
+        left: 40%;
+        color: white;
+        font-size: 80%;
+        top: 40%;
+    }
+    #barA{
+        background-color: darkturquoise;
+        width: 40%;
+        height: 10%;
+        position: absolute;
+        left: 30%;
+        top: 30%;
+    }
+    .messageA{
+        font-size: 80%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: 20%;
+        left: 3%;
+    }
+    #bar{
+        background-color: skyblue;
+        width: 93%;
+        height: 10%;
+        position: absolute;
+        left: 3%;
+        top: 13%;
+    }
+    .message{
+        font-size: 50%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute; 
+        left: 20%;   
+        top: 25%; 
+    }
+    .decon{
+        width: 22%;
+        height: 40%;
+        font-size: 50%;
+        color: white;
+        background-color: turquoise;
+        position: absolute;
+        top: 31%;
+        left: 75%;
+    }
+    #formA{
+        background-color: white;
+        width: 40%;
+        height: 40%;
+        position: absolute;
+        left: 30%;
+        top: 40%;
+    }
+    .colorlabel{
+        color: white;
+    }
+    .email1{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 10%;
+        left: 5%;
+    }
+    .imglogin{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 15%;
+        float: none;
+        left: 85%;
+    }
+    .passwordA{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 40%;
+        left: 5%;
+    }
+    .imgpass{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+        float: none;
+        left: 85%;
+    }
+    .submit{
+        background-color: darkturquoise;
+        font-size: 80%; 
+        color: white; 
+        width: 70%;
+        height: 10%;
+        position: absolute;
+        top: 70%;
+        left: 15%;
+    }
+    .inscritA{
+        font-size: 80%;
+        color: gray;
+        position: absolute;
+        left: 10%;
+        top: 80%;
+    }
+    #form{
+        background-color: gainsboro;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #formCJ{
+        background-color: white;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #bloc1{
+        background-color:white;
+        width: 55%;
+        height: 85%;
+        position: absolute;
+        left: 40%;
+        top: 7%;
+        border-radius: 2%;
+    }
+    .chartjs{
+        width: 60%;
+        height: 100%;
+        float: none;
+    }
+    #menu{
+        width: 38%;
+        height: 65%;
+        position: absolute;
+        float: none;
+        left: 1%;
+        top: 10%;
+    }
+    #profil{
+        background-image: linear-gradient(white, darkturquoise);
+        width: 100%;
+        height: 50%;
+        border-radius: 2%;
+    }
+    #border{
+        border: 1px solid sienna;
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 23%;
+        height: 33%;
+        position: absolute;
+        left: 5%;
+        top: 8%;
+    }
+    .tof{
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 18%;
+        height: 25%;
+        position: absolute;
+        left: 8%;
+        top: 12%;
+    }
+    .nameUser{
+        width: 20%;
+        color: white;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        left: 35%;
+        top: 15%;
+    }
+    #pages{
+        background-color: white;
+        width: 100%;
+        height: 70%;
+        position: absolute;
+        top: 50%;
+    }
+    .liste0{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 5%;
+    }
+    .icone0{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste1{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 25%;
+    }
+    .icone1{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste2{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+    }
+    .icone2{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste3{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 65%;
+    }
+    .icone3{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste4{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 85%;
+    }
+    .icone4{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .inscrit{
+        font-size: 100%;
+        position: absolute;
+        left: 3%;
+        top: 2%;
+    }
+    .culture{
+        font-size: 40%;
+        position: absolute;
+        left: 3%;
+        top: 6%;
+    }
+    .formulaire{
+        border-top: 2px solid grey;
+        width: 50%;
+        height: 85%;
+        position: absolute;
+        top: 12%;
+    }
+    .prenom{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+    }
+    .input1{
+        font-size: 50%;
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .nom{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 15%;
+    }
+    .input2{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 20%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .login{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 30%;
+    }
+    .input3{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 100%;
+        top: 35%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .password{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 45%;
+    }
+    .input4{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 50%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .confirm{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 60%;
+    }
+    .input5{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 50%;
+        top: 65%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .avatar{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 75%;
+    }
+    .input6{
+        background-color: darkturquoise;
+        width: 63%;
+        position: absolute;
+        left: 60%;
+        top: 75%;
+        border-radius: 10%;
+    }
+    .input7{
+        background-color: darkturquoise;
+        width: 45%;
+        height: 5%;
+        position: absolute;
+        left: 30%;
+        font-size: 50%;
+        color: white;
+        border-radius: 10%;
+        top: 85%;
+    }
+    .pro{
+        width: 40%;
+        height: 20%;
+        position: absolute;
+        left: 55%;
+        top: 15%;
+        -moz-border-radius:75px;
+        -webkit-border-radius: 75px;
+        border-radius: 100%;
+        border: 2px solid darkturquoise;
+    }
+    .ava{
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        left: 60%;
+        font-size: 55%;
+        color: black;
+        top: 40%;
+    }
+    .param{
+        font-size: 50%;
+        color: darkturquoise;
+        position: absolute;
+        left: 5%;
+        top: 0%;
+    }
+    #cadre1{
+        border: 2px solid skyblue;
+        width: 94%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        border-radius: 5px;
+    }
+    .quest1{
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        font-size: 50%;
+        color: black;
+    }
+    .quest2{
+        background-color: gainsboro;
+        width: 65%;
+        height: 20%;
+        position: absolute;
+        left: 30%;
+        top: 2%;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius: 10px;
+    }
+    .nbre1{
+        position: absolute;
+        top: 25%;
+        font-size: 50%;
+        color: black;
+    }
+    .nbre2{
+        background-color: gainsboro;
+        width: 20%;
+        height: 6%;
+        position: absolute;
+        left: 40%;
+        top: 27%;
+        font-size: 18px;
+        border-radius: 5px;
+    }
+    .type1{
+        position: absolute;
+        top: 40%;
+        font-size: 50%;
+        color: black;
+    }
+    #type2{
+        background-color: gainsboro;
+        width: 50%;
+        height: 10%;
+        position: absolute;
+        left: 40%;
+        font-size: 50%;
+        top: 38%;
+        border-radius: 5px;
+    }
+    #btn{
+        width: 10%;
+        height: 24%;
+        position: relative;
+        left: 93%;
+        top: -30%;
+    }
+    #btns{
+        background-image: url("images/icones/ic-ajout-réponse.png");
+        background-repeat: no-repeat;
+        width: 50%;
+        height: 100%;
+        position: relative;
+        border-radius: 5px;
+    }
+    #myDiv{
+        width: 97%;
+        height: 40%;
+        position: absolute;
+        top: 50%;
+        font-size: 20px;
+    }
+    .division{
+        border-radius: 5px;
+        width: 100%;
+        height: 20%;
+        position: relative;
+    }
+    .labelRep{
+        font-size: 50%;
+        position: relative;
+        top: -8%;
+    }
+    .divisiontexteArea{
+        width: 100%;
+        height: 80%;
+        position: relative;
+        top: -15%;
+    }
+    .row{
+        background-color: gainsboro;
+        border-radius: 5px;
+        width: 50%;
+        height: 80%;
+        position: absolute;
+        left: 30%;
+    }
+    .lab{
+        position: relative;
+        top: -25%;
+        font-size: 50%;
+    }
+    .rowarea{
+        background-color: gainsboro;
+        font-size: 50%;
+        width: 60%;
+        height: 60%;
+        position: relative;
+        left: 7%;
+        border-radius: 5px;
+    }
+    .classcheckbox{
+        border-radius: 5px;
+        width: 7%;
+        height:70%;
+        position: relative;
+        top: 8%;
+        left: 50%;
+    }
+    .supprime{
+        background-image: url("images/icones/ic-supprimer.png");
+        background-repeat: no-repeat;
+        border-radius: 5px;
+        width: 2%;
+        height: 70%;
+        position: relative;
+        left: 45%;
+    }/*
+    #texte{
+        background-color: gainsboro;
+        border-radius: 5px;
+    }*/
+    .Enregister{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        width: 30%;
+        height: 7%;
+        position: absolute;
+        top: 92%;
+        left: 67%;
+        border-radius: 5px;
+    }
+    .FixerNbreQ{
+        font-size: 50%;
+        color: peru;
+        position: absolute;
+        left: 10%;
+    }
+    .cinq{
+        width: 10%;
+        height: 3%;
+        position: absolute;
+        left: 55%;
+
+    }
+    .cinq0{
+        background-color: cornflowerblue;
+        width: 15%;
+        height: 5%;
+        position: absolute;
+        left: 70%;
+        font-size: 50%;
+    }
+    #AffichageListe{
+        border: 2px solid skyblue;
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        border-radius: 5px;
+        left: 3%;
+        font-size: 50%;
+    }
+    .AffArea{
+        font-size: 50%;
+    }
+    .buton{
+        font-size: 50%;
+        color: white;
+        width: 75%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 20%;
+        border-radius: 5px;
+    }
+    .suivant{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        border-radius: 5px;
+    }
+    .precedent{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        border-radius: 5px;
+    }
+    .ListeJ{
+        font-size: 50%;
+        color: black;
+        position: absolute;
+        left: 15%;
+        top: 0%;
+    }
+    #nomL{
+        width: 10%;
+        height: 5%;
+        font-size: 50%;
+        position: absolute;
+    }
+    #prenomL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 30%;
+        font-size: 50%;
+    }
+    #scoreL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 80%;
+        font-size: 50%;
+    }
+    #lie{
+        width: 100%;
+        height: 15%;
+        position: absolute;
+        top: 6%;
+        font-size: 50%;
+    }
+    #defilement{
+        color: white;
+        width: 50%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 50%;
+        border-radius: 5px;
+    }
+    .suivantL{
+        background-color: darkturquoise;
+        font-size: 50%;
+        width: 70%;
+        height: 100%;
+        color: white;
+        border-radius: 5px;
+    }
+    .precedentL{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        width: 70%;
+        height: 100%;
+        border-radius: 5px;
+    }
+    .profilUser{
+        width: 10%;
+        height: 60%;
+        position: absolute;
+        left: 2%;
+        top: 5%;
+    }
+    .nameUser{
+        width: 50%;
+        height: 20%;
+        position: absolute;
+        top: 80%;
+        left: 2%;
+        font-size: 50%;
+        color: white;
+    }
+    .messageUser{
+        font-size: 40%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        left: 13%;
+    }
+    .face{
+        background-color: silver;
+        width: 93%;
+        height: 75%;
+        position: absolute;
+        left: 3%;
+        top: 25%;
+    }
+    .blanc{
+        background-color: white;
+        width: 98%;
+        height: 95%;
+        position: absolute;
+        left: 1%;
+        top: 2%;
+        border-radius: 2%;
+    }
+    .cadre{
+        border: 2px solid darkturquoise;
+        width: 60%;
+        height: 90%;
+        position: absolute;
+        left: 1%;
+        top: 5%;
+        font-size: 50%;
+        border-radius: 2%;
+    }
+    .carre{
+        background-color: silver;
+        width: 96%;
+        height: 30%;
+        position: absolute;
+        left: 2%;
+        top: 2%;
+        box-shadow: 2px 1px 1px 1px darkturquoise;
+    }
+}
+@media  (min-width: 768px) and (max-width: 1023px){
+    a{
+        text-decoration: none;
+        color: dimgrey;
+    }
+    body{ 
+        background-image: linear-gradient(rgba(4,36,37,0.5), rgba(4,36,37,0.5)), url('images/img-bg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    #hautp{
+        background-color: black;
+        width: 100%;
+        height: 13%;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+    }
+    .logo{
+        width: 5%;
+        height: 100%;
+        float: none;
+        position: absolute;
+        left: 2%;
+    }
+    .plaisir{
+        width: 40%;
+        height: 50%;
+        position: absolute;
+        left: 40%;
+        color: white;
+        font-size: 80%;
+        top: 40%;
+    }
+    #barA{
+        background-color: darkturquoise;
+        width: 40%;
+        height: 10%;
+        position: absolute;
+        left: 30%;
+        top: 30%;
+    }
+    .messageA{
+        font-size: 80%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: 20%;
+        left: 3%;
+    }
+    #bar{
+        background-color: skyblue;
+        width: 93%;
+        height: 10%;
+        position: absolute;
+        left: 3%;
+        top: 13%;
+    }
+    .message{
+        font-size: 50%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute; 
+        left: 20%;   
+        top: 25%; 
+    }
+    .decon{
+        width: 22%;
+        height: 40%;
+        font-size: 50%;
+        color: white;
+        background-color: turquoise;
+        position: absolute;
+        top: 31%;
+        left: 75%;
+    }
+    #formA{
+        background-color: white;
+        width: 40%;
+        height: 40%;
+        position: absolute;
+        left: 30%;
+        top: 40%;
+    }
+    .colorlabel{
+        color: white;
+    }
+    .email1{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 10%;
+        left: 5%;
+    }
+    .imglogin{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 15%;
+        float: none;
+        left: 85%;
+    }
+    .passwordA{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 40%;
+        left: 5%;
+    }
+    .imgpass{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+        float: none;
+        left: 85%;
+    }
+    .submit{
+        background-color: darkturquoise;
+        font-size: 80%; 
+        color: white; 
+        width: 70%;
+        height: 10%;
+        position: absolute;
+        top: 70%;
+        left: 15%;
+    }
+    .inscritA{
+        font-size: 80%;
+        color: gray;
+        position: absolute;
+        left: 10%;
+        top: 80%;
+    }
+    #form{
+        background-color: gainsboro;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #formCJ{
+        background-color: white;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #bloc1{
+        background-color:white;
+        width: 55%;
+        height: 85%;
+        position: absolute;
+        left: 40%;
+        top: 7%;
+        border-radius: 2%;
+    }
+    .chartjs{
+        width: 60%;
+        height: 100%;
+        float: none;
+    }
+    #menu{
+        width: 38%;
+        height: 65%;
+        position: absolute;
+        float: none;
+        left: 1%;
+        top: 10%;
+    }
+    #profil{
+        background-image: linear-gradient(white, darkturquoise);
+        width: 100%;
+        height: 50%;
+        border-radius: 2%;
+    }
+    #border{
+        border: 1px solid sienna;
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 23%;
+        height: 33%;
+        position: absolute;
+        left: 5%;
+        top: 8%;
+    }
+    .tof{
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 18%;
+        height: 25%;
+        position: absolute;
+        left: 8%;
+        top: 12%;
+    }
+    .nameUser{
+        width: 20%;
+        color: white;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        left: 35%;
+        top: 15%;
+    }
+    #pages{
+        background-color: white;
+        width: 100%;
+        height: 70%;
+        position: absolute;
+        top: 50%;
+    }
+    .liste0{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 5%;
+    }
+    .icone0{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste1{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 25%;
+    }
+    .icone1{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste2{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+    }
+    .icone2{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste3{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 65%;
+    }
+    .icone3{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste4{
+        width: 100%;
+        font-size: 80%;
+        height: 10%;
+        position: absolute;
+        top: 85%;
+    }
+    .icone4{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .inscrit{
+        font-size: 100%;
+        position: absolute;
+        left: 3%;
+        top: 2%;
+    }
+    .culture{
+        font-size: 40%;
+        position: absolute;
+        left: 3%;
+        top: 6%;
+    }
+    .formulaire{
+        border-top: 2px solid grey;
+        width: 50%;
+        height: 85%;
+        position: absolute;
+        top: 12%;
+    }
+    .prenom{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+    }
+    .input1{
+        font-size: 50%;
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .nom{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 15%;
+    }
+    .input2{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 20%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .login{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 30%;
+    }
+    .input3{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 100%;
+        top: 35%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .password{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 45%;
+    }
+    .input4{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 50%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .confirm{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 60%;
+    }
+    .input5{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 50%;
+        top: 65%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .avatar{
+        font-size: 70%;
+        position: absolute;
+        left: 5%;
+        top: 75%;
+    }
+    .input6{
+        background-color: darkturquoise;
+        width: 63%;
+        position: absolute;
+        left: 60%;
+        top: 75%;
+        border-radius: 10%;
+    }
+    .input7{
+        background-color: darkturquoise;
+        width: 45%;
+        height: 5%;
+        position: absolute;
+        left: 30%;
+        font-size: 50%;
+        color: white;
+        border-radius: 10%;
+        top: 85%;
+    }
+    .pro{
+        width: 40%;
+        height: 20%;
+        position: absolute;
+        left: 55%;
+        top: 15%;
+        -moz-border-radius:75px;
+        -webkit-border-radius: 75px;
+        border-radius: 100%;
+        border: 2px solid darkturquoise;
+    }
+    .ava{
+        width: 30%;
+        height: 20%;
+        position: absolute;
+        left: 60%;
+        font-size: 55%;
+        color: black;
+        top: 40%;
+    }
+    .param{
+        font-size: 50%;
+        color: darkturquoise;
+        position: absolute;
+        left: 5%;
+        top: 0%;
+    }
+    #cadre1{
+        border: 2px solid skyblue;
+        width: 94%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        border-radius: 5px;
+    }
+    .quest1{
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        font-size: 50%;
+        color: black;
+    }
+    .quest2{
+        background-color: gainsboro;
+        width: 65%;
+        height: 20%;
+        position: absolute;
+        left: 30%;
+        top: 2%;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius: 10px;
+    }
+    .nbre1{
+        position: absolute;
+        top: 25%;
+        font-size: 50%;
+        color: black;
+    }
+    .nbre2{
+        background-color: gainsboro;
+        width: 20%;
+        height: 6%;
+        position: absolute;
+        left: 40%;
+        top: 27%;
+        font-size: 18px;
+        border-radius: 5px;
+    }
+    .type1{
+        position: absolute;
+        top: 40%;
+        font-size: 50%;
+        color: black;
+    }
+    #type2{
+        background-color: gainsboro;
+        width: 50%;
+        height: 10%;
+        position: absolute;
+        left: 40%;
+        font-size: 50%;
+        top: 38%;
+        border-radius: 5px;
+    }
+    #btn{
+        width: 10%;
+        height: 24%;
+        position: relative;
+        left: 93%;
+        top: -30%;
+    }
+    #btns{
+        background-image: url("images/icones/ic-ajout-réponse.png");
+        background-repeat: no-repeat;
+        width: 50%;
+        height: 100%;
+        position: relative;
+        border-radius: 5px;
+    }
+    #myDiv{
+        width: 97%;
+        height: 40%;
+        position: absolute;
+        top: 50%;
+        font-size: 20px;
+    }
+    .division{
+        border-radius: 5px;
+        width: 100%;
+        height: 20%;
+        position: relative;
+    }
+    .labelRep{
+        font-size: 50%;
+        position: relative;
+        top: -8%;
+    }
+    .divisiontexteArea{
+        width: 100%;
+        height: 80%;
+        position: relative;
+        top: -15%;
+    }
+    .row{
+        background-color: gainsboro;
+        border-radius: 5px;
+        width: 50%;
+        height: 80%;
+        position: absolute;
+        left: 30%;
+    }
+    .lab{
+        position: relative;
+        top: -25%;
+        font-size: 50%;
+    }
+    .rowarea{
+        background-color: gainsboro;
+        font-size: 50%;
+        width: 60%;
+        height: 60%;
+        position: relative;
+        left: 7%;
+        border-radius: 5px;
+    }
+    .classcheckbox{
+        border-radius: 5px;
+        width: 7%;
+        height:70%;
+        position: relative;
+        top: 8%;
+        left: 50%;
+    }
+    .supprime{
+        background-image: url("images/icones/ic-supprimer.png");
+        background-repeat: no-repeat;
+        border-radius: 5px;
+        width: 2%;
+        height: 70%;
+        position: relative;
+        left: 45%;
+    }/*
+    #texte{
+        background-color: gainsboro;
+        border-radius: 5px;
+    }*/
+    .Enregister{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        width: 30%;
+        height: 7%;
+        position: absolute;
+        top: 92%;
+        left: 67%;
+        border-radius: 5px;
+    }
+    .FixerNbreQ{
+        font-size: 50%;
+        color: peru;
+        position: absolute;
+        left: 10%;
+    }
+    .cinq{
+        width: 10%;
+        height: 3%;
+        position: absolute;
+        left: 55%;
+
+    }
+    .cinq0{
+        background-color: cornflowerblue;
+        width: 15%;
+        height: 5%;
+        position: absolute;
+        left: 70%;
+        font-size: 50%;
+    }
+    #AffichageListe{
+        border: 2px solid skyblue;
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        border-radius: 5px;
+        left: 3%;
+        font-size: 50%;
+    }
+    .AffArea{
+        font-size: 50%;
+    }
+    .buton{
+        font-size: 50%;
+        color: white;
+        width: 75%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 20%;
+        border-radius: 5px;
+    }
+    .suivant{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        border-radius: 5px;
+    }
+    .precedent{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        border-radius: 5px;
+    }
+    .ListeJ{
+        font-size: 50%;
+        color: black;
+        position: absolute;
+        left: 15%;
+        top: 0%;
+    }
+    #nomL{
+        width: 10%;
+        height: 5%;
+        font-size: 50%;
+        position: absolute;
+    }
+    #prenomL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 30%;
+        font-size: 50%;
+    }
+    #scoreL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 80%;
+        font-size: 50%;
+    }
+    #lie{
+        width: 100%;
+        height: 15%;
+        position: absolute;
+        top: 6%;
+        font-size: 50%;
+    }
+    #defilement{
+        color: white;
+        width: 50%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 50%;
+        border-radius: 5px;
+    }
+    .suivantL{
+        background-color: darkturquoise;
+        font-size: 50%;
+        width: 70%;
+        height: 100%;
+        color: white;
+        border-radius: 5px;
+    }
+    .precedentL{
+        background-color: darkturquoise;
+        font-size: 50%;
+        color: white;
+        width: 70%;
+        height: 100%;
+        border-radius: 5px;
+    }
+    .profilUser{
+        width: 10%;
+        height: 60%;
+        position: absolute;
+        left: 2%;
+        top: 5%;
+    }
+    .nameUser{
+        width: 50%;
+        height: 20%;
+        position: absolute;
+        top: 80%;
+        left: 2%;
+        font-size: 50%;
+        color: white;
+    }
+    .messageUser{
+        font-size: 40%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        left: 13%;
+    }
+    .face{
+        background-color: silver;
+        width: 93%;
+        height: 75%;
+        position: absolute;
+        left: 3%;
+        top: 25%;
+    }
+    .blanc{
+        background-color: white;
+        width: 98%;
+        height: 95%;
+        position: absolute;
+        left: 1%;
+        top: 2%;
+        border-radius: 2%;
+    }
+    .cadre{
+        border: 2px solid darkturquoise;
+        width: 60%;
+        height: 90%;
+        position: absolute;
+        left: 1%;
+        top: 5%;
+        font-size: 50%;
+        border-radius: 2%;
+    }
+    .carre{
+        background-color: silver;
+        width: 96%;
+        height: 30%;
+        position: absolute;
+        left: 2%;
+        top: 2%;
+        box-shadow: 2px 1px 1px 1px darkturquoise;
+    }
+}
+@media only screen and (min-width: 1024px){
+    a{
+        text-decoration: none;
+        color: dimgrey;
+    }
+    a:active{
+        color: red;
+    }
+    body{ 
+        background-image: linear-gradient(rgba(4,36,37,0.5), rgba(4,36,37,0.5)), url('images/img-bg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    #hautp{
+        background-color: black;
+        width: 100%;
+        height: 13%;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+    }
+    .logo{
+        width: 5%;
+        height: 100%;
+        float: none;
+        position: absolute;
+        left: 2%;
+    }
+    .plaisir{
+        width: 40%;
+        height: 50%;
+        position: absolute;
+        left: 40%;
+        color: white;
+        font-size: 150%;
+        top: 25%;
+    }
+    #barA{
+        background-color: darkturquoise;
+        width: 40%;
+        height: 10%;
+        position: absolute;
+        left: 30%;
+        top: 30%;
+    }
+    .messageA{
+        font-size: 80%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: 20%;
+        left: 3%;
+    }
+    #bar{
+        background-color: skyblue;
+        width: 93%;
+        height: 10%;
+        position: absolute;
+        left: 3%;
+        top: 13%;
+    }
+    .message{
+        font-size: 100%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute; 
+        left: 40%;   
+        top: 25%; 
+    }
+    .decon{
+        width: 15%;
+        height: 40%;
+        font-size: 100%;
+        color: white;
+        background-color: turquoise;
+        position: absolute;
+        top: 31%;
+        left: 80%;
+    }
+    #formA{
+        background-color: white;
+        width: 40%;
+        height: 40%;
+        position: absolute;
+        left: 30%;
+        top: 40%;
+    }
+    .colorlabel{
+        color: white;
+    }
+    .email1{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 10%;
+        left: 5%;
+    }
+    .imglogin{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 15%;
+        float: none;
+        left: 85%;
+    }
+    .passwordA{
+        background-color: white; 
+        width: 90%;
+        height: 20%;
+        position: absolute;
+        top: 40%;
+        left: 5%;
+    }
+    .imgpass{
+        width: 5%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+        float: none;
+        left: 85%;
+    }
+    .submit{
+        background-color: darkturquoise;
+        font-size: 80%; 
+        color: white; 
+        width: 20%;
+        height: 10%;
+        position: absolute;
+        top: 70%;
+        left: 5%;
+    }
+    .inscritA{
+        font-size: 80%;
+        color: gray;
+        position: absolute;
+        left: 30%;
+        top: 70%;
+    }
+    #form{
+        background-color: gainsboro;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #formCJ{
+        background-color: white;
+        width: 93%;
+        height: 76%;
+        position: absolute;
+        left: 3%;
+        top: 23%;
+    }
+    #bloc1{
+        background-color:white;
+        width: 55%;
+        height: 85%;
+        position: absolute;
+        left: 40%;
+        top: 7%;
+        border-radius: 2%;
+    }
+    .chartjs{
+        width: 60%;
+        height: 100%;
+        float: none;
+    }
+    #menu{
+        width: 38%;
+        height: 65%;
+        position: absolute;
+        float: none;
+        left: 1%;
+        top: 10%;
+    }
+    #profil{
+        background-image: linear-gradient(white, darkturquoise);
+        width: 100%;
+        height: 50%;
+        border-radius: 2%;
+    }
+    #border{
+        border: 1px solid sienna;
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 23%;
+        height: 33%;
+        position: absolute;
+        left: 5%;
+        top: 8%;
+    }
+    .tof{
+        -moz-border-radius:80%;
+        -webkit-border-radius: 80%;
+        border-radius: 80%;
+        width: 18%;
+        height: 25%;
+        position: absolute;
+        left: 8%;
+        top: 12%;
+    }
+    .name{
+        width: 20%;
+        color: white;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        left: 35%;
+        top: 15%;
+    }
+    #pages{
+        background-color: white;
+        width: 100%;
+        height: 70%;
+        position: absolute;
+        top: 50%;
+    }
+    .liste0{
+        width: 100%;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        top: 5%;
+    }
+    .icone0{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste1{
+        width: 100%;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        top: 25%;
+    }
+    .icone1{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste2{
+        width: 100%;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        top: 45%;
+    }
+    .icone2{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste3{
+        width: 100%;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        top: 65%;
+    }
+    .icone3{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .liste4{
+        width: 100%;
+        font-size: 100%;
+        height: 10%;
+        position: absolute;
+        top: 85%;
+    }
+    .icone4{
+        width: 5%;
+        height: 90%;
+        position: absolute;
+        left: 90%;
+    }
+    .inscrit{
+        font-size: 120%;
+        position: absolute;
+        left: 3%;
+        top: 2%;
+    }
+    .culture{
+        font-size: 60%;
+        position: absolute;
+        left: 3%;
+        top: 7%;
+    }
+    .formulaire{
+        border-top: 2px solid grey;
+        width: 50%;
+        height: 85%;
+        position: absolute;
+        top: 12%;
+    }
+    .prenom{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+    }
+    .input1{
+        font-size: 50%;
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .nom{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+        top: 15%;
+    }
+    .input2{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 20%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .login{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+        top: 30%;
+    }
+    .input3{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 100%;
+        top: 35%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .password{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+        top: 45%;
+    }
+    .input4{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        top: 50%;
+        font-size: 50%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .confirm{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+        top: 60%;
+    }
+    .input5{
+        width: 90%;
+        height: 8%;
+        position: absolute;
+        left: 5%;
+        font-size: 50%;
+        top: 65%;
+        border-radius: 5px;
+        border: 2px solid silver;
+    }
+    .avatar{
+        font-size: 100%;
+        position: absolute;
+        left: 5%;
+        top: 75%;
+    }
+    .input6{
+        background-color: darkturquoise;
+        width: 35%;
+        position: absolute;
+        left: 60%;
+        top: 75%;
+        border-radius: 10%;
+    }
+    .input7{
+        background-color: darkturquoise;
+        width: 30%;
+        height: 10%;
+        position: absolute;
+        left: 30%;
+        font-size: 100%;
+        color: white;
+        border-radius: 10%;
+        top: 85%;
+    }
+    .pro{
+        width: 20%;
+        height: 20%;
+        position: absolute;
+        left: 65%;
+        top: 15%;
+        -moz-border-radius:75px;
+        -webkit-border-radius: 75px;
+        border-radius: 100%;
+        border: 2px solid darkturquoise;
+    }
+    .ava{
+        width: 30%;
+        height: 5%;
+        position: absolute;
+        left: 68%;
+        font-size: 100%;
+        color: black;
+        top: 40%;
+    }
+    .param{
+        font-size: 100%;
+        color: darkturquoise;
+        position: absolute;
+        left: 5%;
+        top: -2%;
+    }
+    #cadre1{
+        border: 2px solid skyblue;
+        width: 94%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        border-radius: 5px;
+    }
+    .quest1{
+        position: absolute;
+        top: 5%;
+        left: 3%;
+        font-size: 100%;
+        color: black;
+    }
+    .quest2{
+        background-color: gainsboro;
+        width: 73%;
+        height: 25%;
+        position: absolute;
+        left: 25%;
+        top: 2%;
+        font-size: 100%;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius: 10px;
+    }
+    .nbre1{
+        position: absolute;
+        top: 25%;
+        font-size: 100%;
+        color: black;
+    }
+    .nbre2{
+        background-color: gainsboro;
+        width: 10%;
+        height: 8%;
+        position: absolute;
+        left: 35%;
+        top: 30%;
+        font-size: 100%;
+        border-radius: 5px;
+    }
+    .type1{
+        position: absolute;
+        top: 35%;
+        font-size: 100%;
+        color: black;
+    }
+    #type2{
+        background-color: gainsboro;
+        width: 55%;
+        height: 10%;
+        position: absolute;
+        left: 35%;
+        font-size: 100%;
+        top: 43%;
+        border-radius: 5px;
+    }
+    #btn{
+        width: 6%;
+        height: 24%;
+        position: relative;
+        left: 95%;
+        top: -30%;
+    }
+    #btns{
+        background-image: url("images/icones/ic-ajout-réponse.png");
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        border-radius: 5px;
+    }
+    #myDiv{
+        width: 97%;
+        height: 40%;
+        position: absolute;
+        top: 55%;
+        font-size: 20px;
+    }
+    .division{
+        border-radius: 5px;
+        width: 100%;
+        height: 20%;
+        position: relative;
+    }
+    .labelRep{
+        font-size: 100%;
+        position: relative;
+        top: -8%;
+    }
+    .divisiontexteArea{
+        width: 100%;
+        height: 80%;
+        position: relative;
+        top: -15%;
+    }
+    .row{
+        background-color: gainsboro;
+        border-radius: 5px;
+        width: 60%;
+        height: 80%;
+        position: absolute;
+        left: 25%;
+    }
+    .lab{
+        position: relative;
+        top: -25%;
+        font-size: 100%;
+    }
+    .rowarea{
+        background-color: gainsboro;
+        font-size: 50%;
+        width: 60%;
+        height: 60%;
+        position: relative;
+        left: 11%;
+        border-radius: 5px;
+    }
+    .classcheckbox{
+        border-radius: 5px;
+        width: 7%;
+        height:70%;
+        position: relative;
+        top: 8%;
+        left: 70%;
+    }
+    .supprime{
+        background-image: url("images/icones/ic-supprimer.png");
+        background-repeat: no-repeat;
+        border-radius: 5px;
+        width: 3%;
+        height: 70%;
+        position: relative;
+        left: 68%;
+    }/*
+    #texte{
+        background-color: gainsboro;
+        border-radius: 5px;
+    }*/
+    .Enregister{
+        background-color: darkturquoise;
+        font-size: 100%;
+        color: white;
+        width: 15%;
+        height: 7%;
+        position: absolute;
+        top: 92%;
+        left: 85%;
+        border-radius: 5px;
+    }
+    .FixerNbreQ{
+        font-size: 100%;
+        color: peru;
+        position: relative;
+        left: 10%;
+        top: -3%;
+    }
+    .cinq{
+        width: 10%;
+        height: 3%;
+        position: absolute;
+        left: 35%;
+        top: 0%;
+
+    }
+    .cinq0{
+        background-color: cornflowerblue;
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 50%;
+        font-size: 80%;
+        top: 0%;
+    }
+    #AffichageListe{
+        border: 2px solid skyblue;
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 5%;
+        border-radius: 5px;
+        left: 3%;
+        font-size: 80%;
+    }
+    .AffArea{
+        font-size: 100%;
+    }
+    .buton{
+        font-size: 50%;
+        color: white;
+        width: 30%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 70%;
+        border-radius: 5px;
+    }
+    .suivant{
+        background-color: darkturquoise;
+        font-size: 100%;
+        color: white;
+        width: 40%;
+        height: 100%;
+        position: absolute;
+        left: 40%;
+        border-radius: 5px;
+    }
+    .precedent{
+        background-color: darkturquoise;
+        font-size: 100%;
+        color: white;
+        width: 40%;
+        height: 100%;
+        border-radius: 5px;
+    }
+    .ListeJ{
+        font-size: 100%;
+        color: black;
+        position: relative;
+        left: 10%;
+        top: -3%;
+    }
+    #nomL{
+        width: 10%;
+        height: 5%;
+        font-size: 100%;
+        position: absolute;
+    }
+    #prenomL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 30%;
+        font-size: 100%;
+    }
+    #scoreL{
+        width: 10%;
+        height: 5%;
+        position: absolute;
+        left: 80%;
+        font-size: 100%;
+    }
+    #lie{
+        width: 100%;
+        height: 15%;
+        position: absolute;
+        top: 6%;
+        font-size: 100%;
+    }
+    #defilement{
+        font-size: 50%;
+        color: white;
+        width: 30%;
+        height: 5%;
+        position: absolute;
+        top: 95%;
+        left: 70%;
+        border-radius: 5px;
+    }
+    .suivantL{
+        background-color: darkturquoise;
+        font-size: 100%;
+        color: white;
+        width: 40%;
+        height: 100%;
+        position: absolute;
+        left: 40%;
+        border-radius: 5px;
+    }
+    .precedentL{
+        background-color: darkturquoise;
+        font-size: 100%;
+        color: white;
+        width: 40%;
+        height: 100%;
+        border-radius: 5px;
+    }
+    .profilUser{
+        width: 10%;
+        height: 60%;
+        position: absolute;
+        left: 2%;
+        top: 5%;
+    }
+    .nameUser{
+        width: 50%;
+        height: 20%;
+        position: absolute;
+        top: 80%;
+        left: 2%;
+        font-size: 50%;
+        color: white;
+    }
+    .messageUser{
+        font-size: 40%;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        left: 13%;
+    }
+    .face{
+        background-color: silver;
+        width: 93%;
+        height: 75%;
+        position: absolute;
+        left: 3%;
+        top: 25%;
+    }
+    .blanc{
+        background-color: white;
+        width: 98%;
+        height: 95%;
+        position: absolute;
+        left: 1%;
+        top: 2%;
+        border-radius: 2%;
+    }
+    .cadre{
+        border: 2px solid darkturquoise;
+        width: 60%;
+        height: 90%;
+        position: absolute;
+        left: 1%;
+        top: 5%;
+        font-size: 50%;
+        border-radius: 2%;
+    }
+    .carre{
+        background-color: silver;
+        width: 96%;
+        height: 30%;
+        position: absolute;
+        left: 2%;
+        top: 2%;
+        box-shadow: 2px 1px 1px 1px darkturquoise;
+    }
+}
